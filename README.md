@@ -1,2 +1,2 @@
 # Coursera
-Introduction to Git and GitHub Week 3 
+Introduction to Git and GitHub Course Week 3 Final Assignment  
